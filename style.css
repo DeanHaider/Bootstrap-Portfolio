@@ -1,10 +1,11 @@
 .class1 {
-    background-color: aqua;
+    background-color: skyblue;
     position: relative;
 }
 
 #container {
     background-color: tan;
+    padding-top: 50px;
 }
 
 .biopic {
@@ -34,4 +35,26 @@ body{
 
 .p-3 {
     max-width: 65%;
+}
+
+#main-container {
+    background: skyblue;
+}
+
+#main-container li {
+	list-style: none;
+	width: 90%;
+    height: auto;
+    width: auto;
+}
+
+h4 {
+    color:black;
+	background-color: cyan;
+    line-height: 40px;
+    width: 150px;
+	text-align: center;
+    bottom: 53px;
+    text size: 20px;
+    
 }
